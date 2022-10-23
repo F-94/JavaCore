@@ -1,0 +1,13 @@
+
+L
+java:S1854	"6Remove this useless assignment to local variable "a3".(ÜÎ»¤
+X
+java:S1854"6Remove this useless assignment to local variable "a2".(Üøğˆÿÿÿÿÿ8‹°ÂşŠ0
+S
+java:S1854"6Remove this useless assignment to local variable "a1".(Ò­•8‹°ÂşŠ0
+D
+java:S1481"'Remove this unused "a1" local variable.(Ò­•8ˆÌÂşŠ0
+I
+java:S1481"'Remove this unused "a2" local variable.(Üøğˆÿÿÿÿÿ8¯öÂşŠ0
+D
+java:S1481	"'Remove this unused "a3" local variable.(ÜÎ»¤8°öÂşŠ0

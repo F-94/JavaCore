@@ -1,0 +1,12 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(‰¨Ü¶
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(í’½†þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¦í²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•Ì¤ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚ¶ñÿÿÿÿÿ
+[
+java:S6201"FReplace this instanceof check and cast with 'instanceof Tomate tomate'(äŽ±*
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÑâå
+v
+java:S1128"YRemove this unused import 'br.com.maratonajava.javacore.npolimofismo.dominio.Computador'.(®öÐœ8Ì¾ˆØ‹0
